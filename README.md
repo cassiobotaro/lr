@@ -1,4 +1,4 @@
-#  :bar_chart: Linear Regression GO
+#  :bar_chart: LR
 
 ## Linear regression with GO
 
